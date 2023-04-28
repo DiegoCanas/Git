@@ -1,1 +1,1 @@
-Im just learning how to use Git
+Im just trying to learn Git
